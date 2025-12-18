@@ -5,9 +5,9 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@alexjorgef/bandcamp-scraper@npm:1.4.2-1":
-  version: 1.4.2-1
-  resolution: "@alexjorgef/bandcamp-scraper@npm:1.4.2-1"
+"@alexjorgef/bandcamp-scraper@npm:1.4.3":
+  version: 1.4.3
+  resolution: "@alexjorgef/bandcamp-scraper@npm:1.4.3"
   dependencies:
     ajv: ^4.11.8
     cheerio: ^0.22.0
@@ -15,7 +15,7 @@ __metadata:
     linez: ^4.1.4
     scrape-it: ^3.3.2
     tinyreq: ^3.2.5
-  checksum: 64f57e4482167e926109629c9325867e03c24f2c4127890d1c38fcadf16d50d2826ccda45de16fc6d92d2cbacb073b412cece9acacc7173b258c544804b89e61
+  checksum: c2f0f651eb89437ba89faa12e159994355238b6ab5928cc6df549ef385bebd9fae05688c18bbbbe1dea38c676d22460319cbf683d6d20ffb3139c74be3824679
   languageName: node
   linkType: hard
 
@@ -23,7 +23,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@alexjorgef/gatsby-source-bandcamp@workspace:plugin"
   dependencies:
-    "@alexjorgef/bandcamp-scraper": 1.4.2-1
+    "@alexjorgef/bandcamp-scraper": 1.4.3
     "@parcel/packager-ts": ^2.9.3
     "@parcel/transformer-typescript-types": ^2.9.3
     del-cli: ^5.0.1

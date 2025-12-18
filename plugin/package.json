@@ -28,7 +28,7 @@
   "author": "Alexandre Ferreira <contact@alexjorgef.com>",
   "license": "MIT",
   "dependencies": {
-    "@alexjorgef/bandcamp-scraper": "1.4.2-1"
+    "@alexjorgef/bandcamp-scraper": "1.4.3"
   },
   "bugs": {
     "url": "https://github.com/alexjorgef/gatsby-source-bandcamp/issues"
