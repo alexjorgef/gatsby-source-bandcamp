@@ -1,6 +1,6 @@
 {
   "name": "@alexjorgef/gatsby-source-bandcamp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gatsby source plugin for Bandcamp",
   "main": "dist/gatsby-node.js",
   "source": "src/gatsby-node.ts",
