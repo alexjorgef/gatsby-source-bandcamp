@@ -42,6 +42,7 @@
     "develop": "yarn workspace demo develop",
     "build": "yarn workspace demo build",
     "serve": "yarn workspace demo serve",
+    "package:publish": "yarn workspace @alexjorgef/gatsby-source-bandcamp npm publish --access public",
     "package:watch": "yarn workspace @alexjorgef/gatsby-source-bandcamp watch",
     "package:build": "yarn workspace @alexjorgef/gatsby-source-bandcamp prepare",
     "typecheck": "tsc --noEmit",
