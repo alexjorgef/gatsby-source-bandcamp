@@ -1,6 +1,6 @@
 {
   "name": "@alexjorgef/gatsby-source-bandcamp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gatsby source plugin for Bandcamp",
   "main": "dist/gatsby-node.js",
   "source": "src/gatsby-node.ts",
@@ -28,7 +28,7 @@
   "author": "Alexandre Ferreira <contact@alexjorgef.com>",
   "license": "MIT",
   "dependencies": {
-    "@alexjorgef/bandcamp-scraper": "1.4.3"
+    "@alexjorgef/bandcamp-scraper": "1.4.4"
   },
   "bugs": {
     "url": "https://github.com/alexjorgef/gatsby-source-bandcamp/issues"
